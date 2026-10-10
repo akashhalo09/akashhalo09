@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="548" height="132" viewBox="0 0 548 132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<style>@media (prefers-reduced-motion:reduce){.sweep{display:none}}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="light"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset=".5" stop-color="#39d353"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient>
+<clipPath id="chip"><rect width="548" height="132" rx="14"/></clipPath>
+</defs>
+<rect width="548" height="132" rx="14" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="546.5" height="130.5" rx="14" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<text x="32" y="58" font-size="30" font-weight="600" fill="#e6edf3" textLength="450" lengthAdjust="spacing"><tspan fill="#39d353">$</tspan> mail akash@joinhalo.com</text>
+<rect x="490" y="32" width="14" height="32" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" begin="0.74s" repeatCount="indefinite"/></rect>
+<text x="68" y="100" font-size="20" fill="#7d8590">Say hello</text>
+<rect class="sweep" x="-180" y="129" width="180" height="3" fill="url(#light)" clip-path="url(#chip)"><animate attributeName="x" values="-180;548;548" keyTimes="0;0.3;1" dur="7s" begin="5.6s" repeatCount="indefinite"/></rect>
+</svg>

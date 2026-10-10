@@ -27,9 +27,9 @@ GREEN_HI = "#39d353"
 LEVELS = [PANEL, "#0e4429", "#006d32", GREEN, GREEN_HI]
 
 
-def window(command, body, css=""):
+def window(command, body, css="", width=WIDTH, height=HEIGHT):
     """Wrap `body` in a terminal window titled `user@host: ~$ ./command`."""
-    w, h = WIDTH, HEIGHT
+    w, h = width, height
     style = f"<style>{css}</style>" if css else ""
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" font-family="{FONT}">
 {style}<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
