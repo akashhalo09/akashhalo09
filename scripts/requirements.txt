@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait only (run locally when the photo changes, not in the daily workflow):
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
