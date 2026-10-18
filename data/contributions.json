@@ -1,12 +1,12 @@
 {
  "user": "akashhalo09",
  "stats": {
-  "total": 1602,
-  "active_days": 224,
+  "total": 1564,
+  "active_days": 218,
   "current_streak": {
-   "days": 5,
-   "start": "2026-10-12",
-   "end": "2026-10-16"
+   "days": 0,
+   "start": null,
+   "end": null
   },
   "longest_streak": {
    "days": 10,
@@ -18,7 +18,7 @@
    "count": 44
   },
   "months": {
-   "2025-10": 62,
+   "2025-10": 24,
    "2025-11": 143,
    "2025-12": 156,
    "2026-01": 149,
@@ -34,41 +34,6 @@
   }
  },
  "days": [
-  {
-   "date": "2025-10-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-13",
-   "level": 2,
-   "count": 11
-  },
-  {
-   "date": "2025-10-14",
-   "level": 2,
-   "count": 13
-  },
-  {
-   "date": "2025-10-15",
-   "level": 1,
-   "count": 1
-  },
-  {
-   "date": "2025-10-16",
-   "level": 1,
-   "count": 2
-  },
-  {
-   "date": "2025-10-17",
-   "level": 2,
-   "count": 10
-  },
-  {
-   "date": "2025-10-18",
-   "level": 1,
-   "count": 1
-  },
   {
    "date": "2025-10-19",
    "level": 0,
@@ -1886,6 +1851,11 @@
   },
   {
    "date": "2026-10-17",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-10-18",
    "level": 0,
    "count": 0
   }
