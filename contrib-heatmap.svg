@@ -386,5 +386,6 @@
 <rect class="c g" x="866" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:3.488s"><title>10 on Nov 4</title></rect>
 <rect class="c" x="866" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.524s"><title>0 on Nov 5</title></rect>
 <rect class="c" x="866" y="104" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.560s"><title>0 on Nov 6</title></rect>
-<text class="total" x="34" y="152"><tspan fill="#26a641">2,032</tspan> contributions in the last year</text>
+<rect class="c g" x="866" y="120" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:3.596s"><title>12 on Nov 7</title></rect>
+<text class="total" x="34" y="152"><tspan fill="#26a641">2,044</tspan> contributions in the last year</text>
 </svg>
