@@ -1,12 +1,12 @@
 {
  "user": "akashhalo09",
  "stats": {
-  "total": 1950,
-  "active_days": 215,
+  "total": 1951,
+  "active_days": 216,
   "current_streak": {
-   "days": 0,
-   "start": null,
-   "end": null
+   "days": 1,
+   "start": "2026-11-23",
+   "end": "2026-11-23"
   },
   "longest_streak": {
    "days": 10,
@@ -30,7 +30,7 @@
    "2026-08": 133,
    "2026-09": 94,
    "2026-10": 126,
-   "2026-11": 68
+   "2026-11": 69
   }
  },
  "days": [
@@ -1858,6 +1858,11 @@
    "date": "2026-11-22",
    "level": 0,
    "count": 0
+  },
+  {
+   "date": "2026-11-23",
+   "level": 1,
+   "count": 1
   }
  ]
 }
