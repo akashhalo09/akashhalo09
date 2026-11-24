@@ -39,12 +39,12 @@
 <rect class="c g" x="82" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.195s"><title>7 on Dec 14</title></rect>
 <rect class="c g" x="82" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.231s"><title>4 on Dec 15</title></rect>
 <rect class="c g" x="82" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.267s"><title>7 on Dec 16</title></rect>
-<rect class="c g" x="82" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.303s"><title>18 on Dec 17</title></rect>
+<rect class="c g" x="82" y="72" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:0.303s"><title>18 on Dec 17</title></rect>
 <rect class="c g" x="82" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.339s"><title>13 on Dec 18</title></rect>
 <rect class="c g" x="82" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.375s"><title>15 on Dec 19</title></rect>
 <rect class="c" x="82" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.411s"><title>0 on Dec 20</title></rect>
 <rect class="c" x="98" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.260s"><title>0 on Dec 21</title></rect>
-<rect class="c g" x="98" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.296s"><title>18 on Dec 22</title></rect>
+<rect class="c g" x="98" y="40" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:0.296s"><title>18 on Dec 22</title></rect>
 <rect class="c" x="98" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.332s"><title>0 on Dec 23</title></rect>
 <rect class="c g" x="98" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.368s"><title>7 on Dec 24</title></rect>
 <rect class="c" x="98" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.404s"><title>0 on Dec 25</title></rect>
@@ -68,7 +68,7 @@
 <rect class="c g" x="146" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.491s"><title>4 on Jan 12</title></rect>
 <rect class="c g" x="146" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.527s"><title>7 on Jan 13</title></rect>
 <rect class="c g" x="146" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.563s"><title>3 on Jan 14</title></rect>
-<rect class="c g" x="146" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.599s"><title>9 on Jan 15</title></rect>
+<rect class="c g" x="146" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.599s"><title>9 on Jan 15</title></rect>
 <rect class="c" x="146" y="104" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.635s"><title>0 on Jan 16</title></rect>
 <rect class="c g" x="146" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.671s"><title>5 on Jan 17</title></rect>
 <rect class="c" x="162" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.520s"><title>0 on Jan 18</title></rect>
@@ -83,7 +83,7 @@
 <rect class="c" x="178" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.657s"><title>0 on Jan 27</title></rect>
 <rect class="c g" x="178" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.693s"><title>8 on Jan 28</title></rect>
 <rect class="c g" x="178" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.729s"><title>14 on Jan 29</title></rect>
-<rect class="c g" x="178" y="104" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:0.765s"><title>27 on Jan 30</title></rect>
+<rect class="c g" x="178" y="104" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:0.765s"><title>27 on Jan 30</title></rect>
 <rect class="c" x="178" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.801s"><title>0 on Jan 31</title></rect>
 <rect class="c" x="194" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.650s"><title>0 on Feb 1</title></rect>
 <rect class="c g" x="194" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.686s"><title>11 on Feb 2</title></rect>
@@ -97,7 +97,7 @@
 <rect class="c g" x="210" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.787s"><title>16 on Feb 10</title></rect>
 <rect class="c g" x="210" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.823s"><title>8 on Feb 11</title></rect>
 <rect class="c g" x="210" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.859s"><title>7 on Feb 12</title></rect>
-<rect class="c g" x="210" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.895s"><title>9 on Feb 13</title></rect>
+<rect class="c g" x="210" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.895s"><title>9 on Feb 13</title></rect>
 <rect class="c g" x="210" y="120" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:0.931s"><title>12 on Feb 14</title></rect>
 <rect class="c" x="226" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:0.780s"><title>0 on Feb 15</title></rect>
 <rect class="c g" x="226" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0.816s"><title>7 on Feb 16</title></rect>
@@ -128,14 +128,14 @@
 <rect class="c" x="274" y="104" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.155s"><title>0 on Mar 13</title></rect>
 <rect class="c" x="274" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.191s"><title>0 on Mar 14</title></rect>
 <rect class="c g" x="290" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.040s"><title>7 on Mar 15</title></rect>
-<rect class="c g" x="290" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.076s"><title>9 on Mar 16</title></rect>
+<rect class="c g" x="290" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.076s"><title>9 on Mar 16</title></rect>
 <rect class="c g" x="290" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.112s"><title>3 on Mar 17</title></rect>
 <rect class="c g" x="290" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.148s"><title>13 on Mar 18</title></rect>
 <rect class="c g" x="290" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.184s"><title>6 on Mar 19</title></rect>
 <rect class="c g" x="290" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.220s"><title>8 on Mar 20</title></rect>
 <rect class="c" x="290" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.256s"><title>0 on Mar 21</title></rect>
 <rect class="c" x="306" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.105s"><title>0 on Mar 22</title></rect>
-<rect class="c g" x="306" y="40" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:1.141s"><title>26 on Mar 23</title></rect>
+<rect class="c g" x="306" y="40" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:1.141s"><title>26 on Mar 23</title></rect>
 <rect class="c g" x="306" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.177s"><title>12 on Mar 24</title></rect>
 <rect class="c g" x="306" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.213s"><title>6 on Mar 25</title></rect>
 <rect class="c g" x="306" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.249s"><title>12 on Mar 26</title></rect>
@@ -151,7 +151,7 @@
 <rect class="c" x="338" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.235s"><title>0 on Apr 5</title></rect>
 <rect class="c g" x="338" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.271s"><title>3 on Apr 6</title></rect>
 <rect class="c g" x="338" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.307s"><title>12 on Apr 7</title></rect>
-<rect class="c g" x="338" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.343s"><title>9 on Apr 8</title></rect>
+<rect class="c g" x="338" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.343s"><title>9 on Apr 8</title></rect>
 <rect class="c" x="338" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.379s"><title>0 on Apr 9</title></rect>
 <rect class="c" x="338" y="104" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.415s"><title>0 on Apr 10</title></rect>
 <rect class="c" x="338" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.451s"><title>0 on Apr 11</title></rect>
@@ -160,7 +160,7 @@
 <rect class="c g" x="354" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.372s"><title>5 on Apr 14</title></rect>
 <rect class="c g" x="354" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.408s"><title>11 on Apr 15</title></rect>
 <rect class="c" x="354" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.444s"><title>0 on Apr 16</title></rect>
-<rect class="c g" x="354" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.480s"><title>9 on Apr 17</title></rect>
+<rect class="c g" x="354" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.480s"><title>9 on Apr 17</title></rect>
 <rect class="c" x="354" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.516s"><title>0 on Apr 18</title></rect>
 <rect class="c" x="370" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.365s"><title>0 on Apr 19</title></rect>
 <rect class="c g" x="370" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.401s"><title>5 on Apr 20</title></rect>
@@ -192,13 +192,13 @@
 <rect class="c g" x="418" y="120" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.776s"><title>13 on May 16</title></rect>
 <rect class="c g" x="434" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.625s"><title>3 on May 17</title></rect>
 <rect class="c g" x="434" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.661s"><title>1 on May 18</title></rect>
-<rect class="c g" x="434" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.697s"><title>18 on May 19</title></rect>
+<rect class="c g" x="434" y="56" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:1.697s"><title>18 on May 19</title></rect>
 <rect class="c g" x="434" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.733s"><title>6 on May 20</title></rect>
 <rect class="c" x="434" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.769s"><title>0 on May 21</title></rect>
 <rect class="c g" x="434" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.805s"><title>8 on May 22</title></rect>
 <rect class="c g" x="434" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.841s"><title>3 on May 23</title></rect>
 <rect class="c g" x="450" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.690s"><title>3 on May 24</title></rect>
-<rect class="c g" x="450" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.726s"><title>9 on May 25</title></rect>
+<rect class="c g" x="450" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.726s"><title>9 on May 25</title></rect>
 <rect class="c g" x="450" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:1.762s"><title>11 on May 26</title></rect>
 <rect class="c" x="450" y="72" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.798s"><title>0 on May 27</title></rect>
 <rect class="c" x="450" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.834s"><title>0 on May 28</title></rect>
@@ -223,7 +223,7 @@
 <rect class="c" x="498" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.957s"><title>0 on Jun 16</title></rect>
 <rect class="c g" x="498" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:1.993s"><title>4 on Jun 17</title></rect>
 <rect class="c g" x="498" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.029s"><title>15 on Jun 18</title></rect>
-<rect class="c g" x="498" y="104" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:2.065s"><title>26 on Jun 19</title></rect>
+<rect class="c g" x="498" y="104" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:2.065s"><title>26 on Jun 19</title></rect>
 <rect class="c" x="498" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.101s"><title>0 on Jun 20</title></rect>
 <rect class="c" x="514" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:1.950s"><title>0 on Jun 21</title></rect>
 <rect class="c g" x="514" y="40" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:1.986s"><title>32 on Jun 22</title></rect>
@@ -234,15 +234,15 @@
 <rect class="c g" x="514" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.166s"><title>1 on Jun 27</title></rect>
 <rect class="c" x="530" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.015s"><title>0 on Jun 28</title></rect>
 <rect class="c g" x="530" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.051s"><title>1 on Jun 29</title></rect>
-<rect class="c g" x="530" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.087s"><title>18 on Jun 30</title></rect>
+<rect class="c g" x="530" y="56" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:2.087s"><title>18 on Jun 30</title></rect>
 <rect class="c" x="530" y="72" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.123s"><title>0 on Jul 1</title></rect>
 <rect class="c g" x="530" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.159s"><title>12 on Jul 2</title></rect>
 <rect class="c g" x="530" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.195s"><title>13 on Jul 3</title></rect>
 <rect class="c g" x="530" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.231s"><title>2 on Jul 4</title></rect>
 <rect class="c" x="546" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.080s"><title>0 on Jul 5</title></rect>
-<rect class="c g" x="546" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.116s"><title>18 on Jul 6</title></rect>
-<rect class="c g" x="546" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.152s"><title>16 on Jul 7</title></rect>
-<rect class="c g" x="546" y="72" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:2.188s"><title>27 on Jul 8</title></rect>
+<rect class="c g" x="546" y="40" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:2.116s"><title>19 on Jul 6</title></rect>
+<rect class="c g" x="546" y="56" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:2.152s"><title>31 on Jul 7</title></rect>
+<rect class="c g" x="546" y="72" width="13" height="13" rx="2.5" fill="#39d353" style="animation-delay:2.188s"><title>27 on Jul 8</title></rect>
 <rect class="c" x="546" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.224s"><title>0 on Jul 9</title></rect>
 <rect class="c g" x="546" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.260s"><title>14 on Jul 10</title></rect>
 <rect class="c g" x="546" y="120" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.296s"><title>11 on Jul 11</title></rect>
@@ -277,7 +277,7 @@
 <rect class="c g" x="626" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.405s"><title>1 on Aug 9</title></rect>
 <rect class="c g" x="626" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.441s"><title>5 on Aug 10</title></rect>
 <rect class="c" x="626" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.477s"><title>0 on Aug 11</title></rect>
-<rect class="c g" x="626" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.513s"><title>18 on Aug 12</title></rect>
+<rect class="c g" x="626" y="72" width="13" height="13" rx="2.5" fill="#26a641" style="animation-delay:2.513s"><title>18 on Aug 12</title></rect>
 <rect class="c g" x="626" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.549s"><title>2 on Aug 13</title></rect>
 <rect class="c g" x="626" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.585s"><title>5 on Aug 14</title></rect>
 <rect class="c g" x="626" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.621s"><title>3 on Aug 15</title></rect>
@@ -315,7 +315,7 @@
 <rect class="c g" x="706" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.838s"><title>10 on Sep 16</title></rect>
 <rect class="c" x="706" y="88" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.874s"><title>0 on Sep 17</title></rect>
 <rect class="c g" x="706" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.910s"><title>3 on Sep 18</title></rect>
-<rect class="c g" x="706" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.946s"><title>9 on Sep 19</title></rect>
+<rect class="c g" x="706" y="120" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:2.946s"><title>9 on Sep 19</title></rect>
 <rect class="c" x="722" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.795s"><title>0 on Sep 20</title></rect>
 <rect class="c g" x="722" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:2.831s"><title>1 on Sep 21</title></rect>
 <rect class="c" x="722" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.867s"><title>0 on Sep 22</title></rect>
@@ -338,9 +338,9 @@
 <rect class="c g" x="754" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.105s"><title>5 on Oct 9</title></rect>
 <rect class="c g" x="754" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.141s"><title>8 on Oct 10</title></rect>
 <rect class="c" x="770" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:2.990s"><title>0 on Oct 11</title></rect>
-<rect class="c g" x="770" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.026s"><title>9 on Oct 12</title></rect>
+<rect class="c g" x="770" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:3.026s"><title>9 on Oct 12</title></rect>
 <rect class="c g" x="770" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.062s"><title>1 on Oct 13</title></rect>
-<rect class="c g" x="770" y="72" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.098s"><title>9 on Oct 14</title></rect>
+<rect class="c g" x="770" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:3.098s"><title>9 on Oct 14</title></rect>
 <rect class="c g" x="770" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.134s"><title>2 on Oct 15</title></rect>
 <rect class="c g" x="770" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.170s"><title>5 on Oct 16</title></rect>
 <rect class="c" x="770" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.206s"><title>0 on Oct 17</title></rect>
@@ -380,6 +380,7 @@
 <rect class="c" x="850" y="104" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.495s"><title>0 on Nov 20</title></rect>
 <rect class="c" x="850" y="120" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.531s"><title>0 on Nov 21</title></rect>
 <rect class="c" x="866" y="24" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.380s"><title>0 on Nov 22</title></rect>
-<rect class="c g" x="866" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.416s"><title>1 on Nov 23</title></rect>
-<text class="total" x="34" y="152"><tspan fill="#26a641">1,951</tspan> contributions in the last year</text>
+<rect class="c g" x="866" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:3.416s"><title>2 on Nov 23</title></rect>
+<rect class="c" x="866" y="56" width="13" height="13" rx="2.5" fill="#7d8590" fill-opacity=".14" style="animation-delay:3.452s"><title>0 on Nov 24</title></rect>
+<text class="total" x="34" y="152"><tspan fill="#26a641">1,968</tspan> contributions in the last year</text>
 </svg>
