@@ -4,9 +4,9 @@
   "total": 1968,
   "active_days": 216,
   "current_streak": {
-   "days": 1,
-   "start": "2026-11-23",
-   "end": "2026-11-23"
+   "days": 0,
+   "start": null,
+   "end": null
   },
   "longest_streak": {
    "days": 10,
@@ -1866,6 +1866,11 @@
   },
   {
    "date": "2026-11-24",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-11-25",
    "level": 0,
    "count": 0
   }
